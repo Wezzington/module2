@@ -1,6 +1,6 @@
 package module1;
 
-public class MainExcercise {
+public class DataTypes {
 	public static void main (String args[]){
 
 		double doubVar = 10.0;
